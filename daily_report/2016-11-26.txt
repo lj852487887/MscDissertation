@@ -6,7 +6,5 @@ search articles about recommend system
 
 afternoon(13-17):
 
-practice svd and collaborative filtering in python
-
 
 evening(19-22):

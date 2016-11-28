@@ -1,0 +1,11 @@
+morning(11-12):
+
+study course of machine learning
+
+afternoon(13-17):
+study course of machine learning
+
+evening(19-22):
+
+practice machine learning in python
+study course of machine learning
