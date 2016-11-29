@@ -6,4 +6,8 @@ learning machine learning methods
 practice neural network in python
 
 
-evening(19-22):
+evening(18-21):
+practice scala app on cluster
+search elastic search materials
+practice spark on local 
+write interim plan ppt to prof.Wang

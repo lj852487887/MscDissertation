@@ -1,10 +1,13 @@
-morning(10-12):
+morning(11-12):
 
-write midterm plan
-search articles about recommend system
+read book big data analysis with spark
 
 
 afternoon(13-17):
 
+read book big data analysis with spark
+
 
 evening(19-22):
+
+read book big data analysis with spark
