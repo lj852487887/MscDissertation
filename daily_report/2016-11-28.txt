@@ -10,3 +10,7 @@ practice svd and collaborative filtering in python
 
 
 evening(19-22):
+
+fix a bug caused by ipython
+
+practice basic data analysis code on the cluster
