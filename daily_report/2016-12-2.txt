@@ -2,8 +2,9 @@ morning(10-13):
 practice spark on local
 learning machine learning methods
 
-afternoon(13-14):
+afternoon(15-18):
+practice spark on local
+learning machine learning methods
 
-
-
-evening(18-21):
+afternoon(20-22):
+test elastic search and spark on cluster

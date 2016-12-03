@@ -1,0 +1,7 @@
+
+afternoon(13-17):
+practice spark and elastic search on cluster
+config elasticsearch stack
+
+
+evening(13-17):
