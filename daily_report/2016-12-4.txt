@@ -1,0 +1,8 @@
+
+afternoon(13-18):
+search material for spark elasticsearch
+read paper about recommender system
+
+evening(19-21):
+read paper about recommender system
+search material for elastic search

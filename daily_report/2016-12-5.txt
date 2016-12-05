@@ -1,0 +1,7 @@
+
+afternoon(14-18):
+search material for spark elasticsearch
+watch class on machine learning
+upload dataset to cluster
+
+evening(13-17):
