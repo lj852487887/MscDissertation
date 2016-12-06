@@ -1,0 +1,8 @@
+morning(10-12):
+deploy plugin for elasticsearch in cluster
+read elasticsearch guide book
+study scala
+
+afternoon(14-18):
+
+evening(19-21):
