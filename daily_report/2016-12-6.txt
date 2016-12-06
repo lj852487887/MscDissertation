@@ -1,8 +1,13 @@
 morning(10-12):
-deploy plugin for elasticsearch in cluster
 read elasticsearch guide book
 study scala
+installed head in elasticsearch
+tunnel elasticsearch port 9200 to 8230
 
 afternoon(14-18):
+installed sense in kibana
+watch tutorial about elasticsearch and spark
+practice elasticsearch DSL
+search material for elasticsearch recommender system
 
 evening(19-21):

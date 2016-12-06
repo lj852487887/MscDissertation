@@ -1,0 +1,16 @@
+Spark:
+Spark就是以弹性分布式数据集RDD(Resilient Distributed Datasets)为核心的计算框架，它产生的背景就是MR难用！慢！
+RDD，把map过程都串起来，内存用起来，再做点流水线优化。快了10到100倍。
+
+Hive:
+一个建立在分布式存储系统（HDFS）上的SQL引擎。把SQL命令转化为map-reduce执行。
+适合场景：
+数据仓库。基于Hadoop做数据清洗（ETL）、报表、数据分析。
+
+
+SparkSQL:
+
+Elasticsearch:
+
+Elasticsearch提供丰富且灵活的查询语言叫做DSL查询(Query DSL),它允许你构建更加复杂、强大的查询。
+DSL(Domain Specific Language特定领域语言)以JSON请求体的形式出现。
