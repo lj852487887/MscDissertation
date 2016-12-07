@@ -4,5 +4,6 @@ config elasticsearch cluster
 afternoon(15-18):
 read materials about recommender sys
 write mails to prof.Wang
+study scala
 
 evening(19-21):
