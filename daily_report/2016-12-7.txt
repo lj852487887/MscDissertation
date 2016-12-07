@@ -6,4 +6,5 @@ read materials about recommender sys
 write mails to prof.Wang
 study scala
 
-evening(19-21):
+evening(20-22):
+study scala
