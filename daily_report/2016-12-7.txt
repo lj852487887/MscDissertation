@@ -1,0 +1,8 @@
+morning(11-13):
+config elasticsearch cluster
+
+afternoon(15-18):
+read materials about recommender sys
+write mails to prof.Wang
+
+evening(19-21):

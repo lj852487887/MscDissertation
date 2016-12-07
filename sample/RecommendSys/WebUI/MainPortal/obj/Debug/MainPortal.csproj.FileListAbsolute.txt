@@ -1,0 +1,14 @@
+G:\vs2010\RecommendSys\MainPortal\bin\MainPortal.dll
+G:\vs2010\RecommendSys\MainPortal\bin\MainPortal.pdb
+G:\vs2010\RecommendSys\MainPortal\bin\Thrift.dll
+G:\vs2010\RecommendSys\MainPortal\bin\Thrift.pdb
+G:\vs2010\RecommendSys\MainPortal\obj\Debug\MainPortal.csprojResolveAssemblyReference.cache
+G:\vs2010\RecommendSys\MainPortal\obj\Debug\MainPortal.dll
+G:\vs2010\RecommendSys\MainPortal\obj\Debug\MainPortal.pdb
+F:\vs2010\RecommendSys\MainPortal\bin\MainPortal.dll
+F:\vs2010\RecommendSys\MainPortal\bin\MainPortal.pdb
+F:\vs2010\RecommendSys\MainPortal\bin\Thrift.dll
+F:\vs2010\RecommendSys\MainPortal\bin\Thrift.pdb
+F:\vs2010\RecommendSys\MainPortal\obj\Debug\MainPortal.csprojResolveAssemblyReference.cache
+F:\vs2010\RecommendSys\MainPortal\obj\Debug\MainPortal.dll
+F:\vs2010\RecommendSys\MainPortal\obj\Debug\MainPortal.pdb

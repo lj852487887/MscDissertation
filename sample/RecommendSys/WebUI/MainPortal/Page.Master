@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="MainPortal.Page" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <title>智能数字图书系统</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/lightbox.css" rel="stylesheet" type="text/css" media="screen" />
+    <script src="js/prototype.js" type="text/javascript"></script>
+    <script src="js/scriptaculous.js?load=effects" type="text/javascript"></script>
+    <script src="js/lightbox.js" type="text/javascript"></script>
+    <script src="js/java.js" type="text/javascript"></script>
+
+    <script src="js/jquery-1.10.2.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jQuery.noConflict();
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="wrap">
+        <div class="header">
+            <div class="logo">
+                <a href="Index.aspx">
+                    <img src="images/logo.gif" alt="" title="" border="0" /></a></div>
+            <div id="menu">
+                <ul>
+                    <asp:ContentPlaceHolder ID="Menu" runat="server">
+                    </asp:ContentPlaceHolder>
+                </ul>
+            </div>
+        </div>
+        <div class="center_content">
+            <div class="left_content">
+                <asp:ContentPlaceHolder ID="Replace" runat="server">
+                </asp:ContentPlaceHolder>
+                <div class="clear">
+                </div>
+            </div>
+            <!--end of left content-->
+            <div class="right_content">
+                <div class="cart">
+                    <div class="title">
+                        <span class="title_icon">
+                            <img src="images/cart.gif" alt="" title="" /></span>我的购物车</div>
+                    <%--<%=carHtml %>--%>
+                    <a href="Vip_Car.aspx" class="view_cart">前往</a>
+                </div>
+                <div class="right_box">
+                    <div class="title">
+                        <span class="title_icon">
+                            <img src="images/bullet5.gif" alt="" title="" /></span>书目信息</div>
+                    <ul class="list">
+                        <%--<%= categoriesHtml%>--%>
+                    </ul>
+                    <div class="title">
+                        <span class="title_icon">
+                            <img src="images/bullet5.gif" alt="" title="" /></span>最新新闻
+                    </div>
+                    <ul class="list">
+                        <%--<%=newsHtml %>--%>
+                    </ul>
+                    <div class="title">
+                        <span class="title_icon">
+                            <img src="images/bullet6.gif" alt="" title="" /></span>合作伙伴</div>
+                    <ul class="list">
+                        <%--<%=partnersHtml %>--%>
+                    </ul>
+                </div>
+            </div>
+            <!--end of right content-->
+            <div class="clear">
+            </div>
+        </div>
+        <!--end of center content-->
+        <div class="footer">
+            <div class="left_footer">
+                <img src="images/footer_logo.gif" alt="" title="" /><br />
+            </div>
+            <div class="right_footer">
+                <a href="#">主页</a> <a href="#">关于我们</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

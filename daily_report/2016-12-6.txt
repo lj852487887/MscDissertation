@@ -10,4 +10,3 @@ watch tutorial about elasticsearch and spark
 practice elasticsearch DSL
 search material for elasticsearch recommender system
 
-evening(19-21):
