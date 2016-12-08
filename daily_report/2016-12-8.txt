@@ -1,0 +1,11 @@
+morning(11-14):
+study recommender system
+
+afternoon(15-18):
+test scala spark on cluster
+config spark local in intelij
+
+evening(19-21):
+practice es-hadoop on cluster
+read material about spark
+study scala
