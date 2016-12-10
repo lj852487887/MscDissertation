@@ -1,0 +1,9 @@
+
+afternoon(14-18):
+config git on the cluster
+learn itemcf
+
+evening(19-21):
+practice es-hadoop on cluster
+read material about spark
+study scala

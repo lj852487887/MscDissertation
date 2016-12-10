@@ -1,0 +1,10 @@
+morning(11-13):
+recover es cluster
+
+afternoon(15-18):
+learn item cf
+
+evening(19-22):
+test spark cluster speed
+get a excellent dataset
+edit shell script
