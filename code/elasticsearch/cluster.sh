@@ -29,3 +29,5 @@ curl -XGET 'http://se003:9200/_count?pretty' -d '
         "match_all": {}
     }
 }'
+
+curl -s -XPOST se003:9200/amazon/video/_bulk --data-binary @
